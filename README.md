@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jiya24. I am 14.
+- 👋 Hi, I’m @Jiya24. I am 15.
 - 👀 I’m interested in Programming, Singing, Dancing.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on ...
